@@ -1,4 +1,6 @@
 # Raphaël: Cross-browser vector graphics the easy way.
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fraphael.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fraphael?ref=badge_shield)
+
 
 Visit the library website for more information: ~~[http://raphaeljs.com](http://raphaeljs.com/)~~ [http://dmitrybaranovskiy.github.io/raphael/](http://dmitrybaranovskiy.github.io/raphael/)
 
@@ -73,3 +75,6 @@ Copyright © 2008-2013 Dmitry Baranovskiy (http://dmitrybaranovskiy.github.io/ra
 Copyright © 2008-2013 Sencha Labs (http://sencha.com)
 
 Licensed under the **MIT** (http://dmitrybaranovskiy.github.io/raphael/license.html) license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fraphael.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fraphael?ref=badge_large)
